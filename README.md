@@ -1,5 +1,5 @@
 <h1 align="center">
-    Autoreport
+    autoreport
   <br>
 </h1>
 
